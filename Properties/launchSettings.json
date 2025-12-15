@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Meowbah (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Meowbah (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
